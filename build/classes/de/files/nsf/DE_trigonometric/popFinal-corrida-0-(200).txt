@@ -1,0 +1,20 @@
+- K: 1
+Best Fitness de la poblacion final: 0.24702059
+Best SU de la poblacion final: 684.0
+::::::::::::::::::::::::::::::::::
+- K: 2
+Best Fitness de la poblacion final: 0.25713253
+Best SU de la poblacion final: 712.0
+::::::::::::::::::::::::::::::::::
+- K: 3
+Best Fitness de la poblacion final: 0.25604913
+Best SU de la poblacion final: 709.0
+::::::::::::::::::::::::::::::::::
+- K: 4
+Best Fitness de la poblacion final: 0.25641027
+Best SU de la poblacion final: 710.0
+::::::::::::::::::::::::::::::::::
+- K: 5
+Best Fitness de la poblacion final: 0.26507765
+Best SU de la poblacion final: 734.0
+::::::::::::::::::::::::::::::::::

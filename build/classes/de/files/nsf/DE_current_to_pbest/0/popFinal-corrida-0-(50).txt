@@ -1,0 +1,20 @@
+- K: 1
+Fitness promedio de la poblacion final: 0.3775216
+SU promedio de la poblacion final: 262
+::::::::::::::::::::::::::::::::::
+- K: 2
+Fitness promedio de la poblacion final: 0.37175792
+SU promedio de la poblacion final: 258
+::::::::::::::::::::::::::::::::::
+- K: 3
+Fitness promedio de la poblacion final: 0.30691642
+SU promedio de la poblacion final: 213
+::::::::::::::::::::::::::::::::::
+- K: 4
+Fitness promedio de la poblacion final: 0.3501441
+SU promedio de la poblacion final: 243
+::::::::::::::::::::::::::::::::::
+- K: 5
+Fitness promedio de la poblacion final: 0.28674352
+SU promedio de la poblacion final: 199
+::::::::::::::::::::::::::::::::::
